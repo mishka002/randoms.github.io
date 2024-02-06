@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style-type: none;
+}
+body {
+    background: bisque;
+    overflow: hidden;
+}
+#randomimg, #randomimg_2 {
+    width: 50%;
+}
+#randomimg {
+    background: chocolate;
+    height: 100vh;
+}
+#randomimg_2 {
+    background: darkkhaki;
+}
+.randomImages {
+    width: 100%;
+    background: aqua;
+    display:flex;
+}
+.randomImages img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.fade {
+    animation: ease 3s fadein;
+}
+.arrows {
+    width: 360px;
+    height: 80px;
+    background: chocolate;
+    border-radius: 15px;
+    position: absolute;
+    left: 37%;
+    top: 47.5%;
+    z-index: 2;
+}
+.arrows h4 {
+    color: aliceblue;
+    font-family: "BPG Nino Mkhedruli";
+    font-weight: bold;
+    padding: 30px 13px ;
+    display: flex;
+
+}
+
+@keyframes fadein {
+    from {
+        opacity: 0.5;
+    }
+    to {
+        opacity: 1;
+    }
+}

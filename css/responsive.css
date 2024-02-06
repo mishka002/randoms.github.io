@@ -1,0 +1,9 @@
+@media screen and (height:658px) {
+    .imgran {
+        height: 658px;
+    }
+    #randomimg, #randomimg_2 {
+        height: 658px;
+
+    }
+}
