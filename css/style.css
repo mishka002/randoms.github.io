@@ -1,8 +1,26 @@
+@font-face {
+    font-family: 'alk-sanet-webfont';
+    src: url('/fonts/alk-sanet-webfont.ttf');
+}
 * {
     margin: 0;
     padding: 0;
     text-decoration: none;
     list-style-type: none;
+}
+header {
+    background-color: burlywood;
+    width: 100%;
+    padding: 20px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 2;
+
+}
+.logo {
+    font-family: 'alk-sanet-webfont';
+
 }
 body {
     background: bisque;
@@ -43,7 +61,9 @@ body {
 }
 .arrows h4 {
     color: aliceblue;
-    font-family: "BPG Nino Mkhedruli";
+    font-family: 'alk-sanet-webfont';
+
+
     font-weight: bold;
     padding: 30px 13px ;
     display: flex;
