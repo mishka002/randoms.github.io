@@ -1,6 +1,38 @@
 [
   {
-    "status": "active"
+      "promo": {
+          "5788339": {
+              "name": "test",
+              "description": "twst 1213",
+              "Setdate": "5676536",
+              "Useddate": "45766526",
+              "valid": "64765736",
+              "operator": "shota"
+          }
+      }
+  },
+  {
+      "promo": {
+          "578": {
+              "name": "მიხეილი",
+              "description": "twst",
+              "Setdate": "5676536",
+              "Useddate": "45766526",
+              "valid": "64765736",
+              "operator": "shota"
+          }
+      }
+  },
+  {
+      "promo": {
+          "gggg239o9": {
+              "name": "test mixeili",
+              "description": "twst",
+              "Setdate": "5676536",
+              "Useddate": "45766526",
+              "valid": "64765736",
+              "operator": "shota rustaveli"
+          }
+      }
   }
 ]
-
