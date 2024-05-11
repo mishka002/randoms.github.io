@@ -4,28 +4,36 @@
       "fullname": "John Doe",
       "phone": "123-456-7890",
       "date": "04/05/2024",
-      "email": "john.doe@example.com"
+      "email": "john.doe@example.com",
+      "category": "ელექტრიკი",
+      "profileimgs": ""
     },
     {
       "userID": "002",
       "fullname": "Jane Smith",
       "phone": "987-654-3210",
       "date": "04/08/2024",
-      "email": "jane.smith@example.com"
+      "email": "jane.smith@example.com",
+      "category": "ელექტრიკი"
+
     },
     {
       "userID": "003",
       "fullname": "Alice Johnson",
       "phone": "555-555-5555",
       "date": "04/08/2024",
-      "email": "alice.johnson@example.com"
+      "email": "alice.johnson@example.com",
+      "category": "სვარკა"
+
     },
     {
         "userID": "004",
         "fullname": "შოთა რუსთაველი",
         "phone": "585-555-5555",
         "date": "04/01/2024",
-        "email": "shota.johnson@example.com"
+        "email": "shota.johnson@example.com",
+        "category": "თამადა"
+
     }
 ]
   
